@@ -1,0 +1,42 @@
+[
+    {
+        "score": 0.9277879595756531,
+        "label": "chair",
+        "box": {
+            "xmin": 0,
+            "ymin": 2,
+            "xmax": 105,
+            "ymax": 118
+        }
+    },
+    {
+        "score": 0.7408779859542847,
+        "label": "couch",
+        "box": {
+            "xmin": 0,
+            "ymin": 108,
+            "xmax": 314,
+            "ymax": 366
+        }
+    },
+    {
+        "score": 0.9985425472259521,
+        "label": "cat",
+        "box": {
+            "xmin": 188,
+            "ymin": 158,
+            "xmax": 676,
+            "ymax": 444
+        }
+    },
+    {
+        "score": 0.9817377924919128,
+        "label": "dog",
+        "box": {
+            "xmin": 316,
+            "ymin": 17,
+            "xmax": 522,
+            "ymax": 243
+        }
+    }
+]

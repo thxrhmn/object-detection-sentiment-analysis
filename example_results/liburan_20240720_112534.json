@@ -1,0 +1,62 @@
+[
+    {
+        "score": 0.9997603297233582,
+        "label": "person",
+        "box": {
+            "xmin": 686,
+            "ymin": 189,
+            "xmax": 780,
+            "ymax": 444
+        }
+    },
+    {
+        "score": 0.8658621311187744,
+        "label": "car",
+        "box": {
+            "xmin": 14,
+            "ymin": 229,
+            "xmax": 33,
+            "ymax": 238
+        }
+    },
+    {
+        "score": 0.9998258948326111,
+        "label": "person",
+        "box": {
+            "xmin": 82,
+            "ymin": 215,
+            "xmax": 230,
+            "ymax": 495
+        }
+    },
+    {
+        "score": 0.9994826316833496,
+        "label": "car",
+        "box": {
+            "xmin": 1,
+            "ymin": 220,
+            "xmax": 754,
+            "ymax": 493
+        }
+    },
+    {
+        "score": 0.9987133741378784,
+        "label": "bicycle",
+        "box": {
+            "xmin": 316,
+            "ymin": 12,
+            "xmax": 655,
+            "ymax": 216
+        }
+    },
+    {
+        "score": 0.9514284729957581,
+        "label": "car",
+        "box": {
+            "xmin": 53,
+            "ymin": 233,
+            "xmax": 68,
+            "ymax": 242
+        }
+    }
+]

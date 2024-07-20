@@ -1,0 +1,372 @@
+[
+    {
+        "score": 0.953596830368042,
+        "label": "person",
+        "box": {
+            "xmin": 453,
+            "ymin": 585,
+            "xmax": 473,
+            "ymax": 624
+        }
+    },
+    {
+        "score": 0.5553163886070251,
+        "label": "dog",
+        "box": {
+            "xmin": 151,
+            "ymin": 493,
+            "xmax": 537,
+            "ymax": 891
+        }
+    },
+    {
+        "score": 0.5487406849861145,
+        "label": "chair",
+        "box": {
+            "xmin": 511,
+            "ymin": 717,
+            "xmax": 579,
+            "ymax": 808
+        }
+    },
+    {
+        "score": 0.9960343241691589,
+        "label": "chair",
+        "box": {
+            "xmin": 0,
+            "ymin": 671,
+            "xmax": 96,
+            "ymax": 910
+        }
+    },
+    {
+        "score": 0.9968938827514648,
+        "label": "chair",
+        "box": {
+            "xmin": 531,
+            "ymin": 682,
+            "xmax": 719,
+            "ymax": 981
+        }
+    },
+    {
+        "score": 0.6791191697120667,
+        "label": "chair",
+        "box": {
+            "xmin": 541,
+            "ymin": 648,
+            "xmax": 619,
+            "ymax": 793
+        }
+    },
+    {
+        "score": 0.9948623776435852,
+        "label": "person",
+        "box": {
+            "xmin": 7,
+            "ymin": 491,
+            "xmax": 173,
+            "ymax": 690
+        }
+    },
+    {
+        "score": 0.7054917812347412,
+        "label": "dining table",
+        "box": {
+            "xmin": 0,
+            "ymin": 606,
+            "xmax": 62,
+            "ymax": 632
+        }
+    },
+    {
+        "score": 0.5451737642288208,
+        "label": "chair",
+        "box": {
+            "xmin": 560,
+            "ymin": 629,
+            "xmax": 613,
+            "ymax": 726
+        }
+    },
+    {
+        "score": 0.8294188380241394,
+        "label": "dining table",
+        "box": {
+            "xmin": 451,
+            "ymin": 691,
+            "xmax": 624,
+            "ymax": 725
+        }
+    },
+    {
+        "score": 0.9969397783279419,
+        "label": "cup",
+        "box": {
+            "xmin": 475,
+            "ymin": 887,
+            "xmax": 641,
+            "ymax": 1129
+        }
+    },
+    {
+        "score": 0.66733318567276,
+        "label": "dining table",
+        "box": {
+            "xmin": 494,
+            "ymin": 710,
+            "xmax": 618,
+            "ymax": 822
+        }
+    },
+    {
+        "score": 0.7656548619270325,
+        "label": "car",
+        "box": {
+            "xmin": 698,
+            "ymin": 611,
+            "xmax": 720,
+            "ymax": 634
+        }
+    },
+    {
+        "score": 0.941890299320221,
+        "label": "person",
+        "box": {
+            "xmin": 500,
+            "ymin": 590,
+            "xmax": 520,
+            "ymax": 623
+        }
+    },
+    {
+        "score": 0.7708432674407959,
+        "label": "dining table",
+        "box": {
+            "xmin": 488,
+            "ymin": 710,
+            "xmax": 618,
+            "ymax": 752
+        }
+    },
+    {
+        "score": 0.8230916857719421,
+        "label": "person",
+        "box": {
+            "xmin": 447,
+            "ymin": 586,
+            "xmax": 466,
+            "ymax": 622
+        }
+    },
+    {
+        "score": 0.7133544683456421,
+        "label": "person",
+        "box": {
+            "xmin": 440,
+            "ymin": 589,
+            "xmax": 457,
+            "ymax": 623
+        }
+    },
+    {
+        "score": 0.8462950587272644,
+        "label": "car",
+        "box": {
+            "xmin": 561,
+            "ymin": 591,
+            "xmax": 624,
+            "ymax": 622
+        }
+    },
+    {
+        "score": 0.7546648383140564,
+        "label": "person",
+        "box": {
+            "xmin": 465,
+            "ymin": 583,
+            "xmax": 483,
+            "ymax": 620
+        }
+    },
+    {
+        "score": 0.9593054056167603,
+        "label": "car",
+        "box": {
+            "xmin": 523,
+            "ymin": 596,
+            "xmax": 567,
+            "ymax": 621
+        }
+    },
+    {
+        "score": 0.7850725054740906,
+        "label": "chair",
+        "box": {
+            "xmin": 500,
+            "ymin": 731,
+            "xmax": 525,
+            "ymax": 802
+        }
+    },
+    {
+        "score": 0.8547829985618591,
+        "label": "cup",
+        "box": {
+            "xmin": 283,
+            "ymin": 884,
+            "xmax": 380,
+            "ymax": 1068
+        }
+    },
+    {
+        "score": 0.7913234829902649,
+        "label": "person",
+        "box": {
+            "xmin": 462,
+            "ymin": 590,
+            "xmax": 480,
+            "ymax": 624
+        }
+    },
+    {
+        "score": 0.7641986012458801,
+        "label": "person",
+        "box": {
+            "xmin": 392,
+            "ymin": 504,
+            "xmax": 506,
+            "ymax": 724
+        }
+    },
+    {
+        "score": 0.9814286231994629,
+        "label": "person",
+        "box": {
+            "xmin": 13,
+            "ymin": 338,
+            "xmax": 536,
+            "ymax": 923
+        }
+    },
+    {
+        "score": 0.8963611125946045,
+        "label": "bottle",
+        "box": {
+            "xmin": 176,
+            "ymin": 842,
+            "xmax": 262,
+            "ymax": 1009
+        }
+    },
+    {
+        "score": 0.945592999458313,
+        "label": "dining table",
+        "box": {
+            "xmin": 0,
+            "ymin": 611,
+            "xmax": 62,
+            "ymax": 674
+        }
+    },
+    {
+        "score": 0.6681435108184814,
+        "label": "person",
+        "box": {
+            "xmin": 672,
+            "ymin": 605,
+            "xmax": 686,
+            "ymax": 630
+        }
+    },
+    {
+        "score": 0.8394171595573425,
+        "label": "person",
+        "box": {
+            "xmin": 143,
+            "ymin": 345,
+            "xmax": 535,
+            "ymax": 891
+        }
+    },
+    {
+        "score": 0.7679064273834229,
+        "label": "dining table",
+        "box": {
+            "xmin": 451,
+            "ymin": 681,
+            "xmax": 620,
+            "ymax": 762
+        }
+    },
+    {
+        "score": 0.8248616456985474,
+        "label": "umbrella",
+        "box": {
+            "xmin": 41,
+            "ymin": 3,
+            "xmax": 720,
+            "ymax": 313
+        }
+    },
+    {
+        "score": 0.9849399924278259,
+        "label": "dining table",
+        "box": {
+            "xmin": 0,
+            "ymin": 889,
+            "xmax": 719,
+            "ymax": 1261
+        }
+    },
+    {
+        "score": 0.5742966532707214,
+        "label": "dining table",
+        "box": {
+            "xmin": 533,
+            "ymin": 604,
+            "xmax": 645,
+            "ymax": 644
+        }
+    },
+    {
+        "score": 0.6176846027374268,
+        "label": "person",
+        "box": {
+            "xmin": 483,
+            "ymin": 591,
+            "xmax": 501,
+            "ymax": 623
+        }
+    },
+    {
+        "score": 0.9823088049888611,
+        "label": "cup",
+        "box": {
+            "xmin": 301,
+            "ymin": 846,
+            "xmax": 438,
+            "ymax": 1043
+        }
+    },
+    {
+        "score": 0.8474952578544617,
+        "label": "dining table",
+        "box": {
+            "xmin": 452,
+            "ymin": 692,
+            "xmax": 625,
+            "ymax": 817
+        }
+    },
+    {
+        "score": 0.917199432849884,
+        "label": "person",
+        "box": {
+            "xmin": 497,
+            "ymin": 590,
+            "xmax": 516,
+            "ymax": 623
+        }
+    }
+]

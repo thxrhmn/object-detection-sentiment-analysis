@@ -1,0 +1,42 @@
+[
+    {
+        "score": 0.999372661113739,
+        "label": "dog",
+        "box": {
+            "xmin": 651,
+            "ymin": 344,
+            "xmax": 794,
+            "ymax": 541
+        }
+    },
+    {
+        "score": 0.9996028542518616,
+        "label": "person",
+        "box": {
+            "xmin": 294,
+            "ymin": 85,
+            "xmax": 441,
+            "ymax": 522
+        }
+    },
+    {
+        "score": 0.9996488094329834,
+        "label": "person",
+        "box": {
+            "xmin": 445,
+            "ymin": 115,
+            "xmax": 599,
+            "ymax": 526
+        }
+    },
+    {
+        "score": 0.9856728315353394,
+        "label": "handbag",
+        "box": {
+            "xmin": 504,
+            "ymin": 185,
+            "xmax": 586,
+            "ymax": 342
+        }
+    }
+]
