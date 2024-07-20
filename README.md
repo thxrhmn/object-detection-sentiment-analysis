@@ -2,6 +2,13 @@
 
 This project uses Hugging Face Transformers to perform object detection and sentiment analysis. It provides a command-line interface for analyzing images and text data.
 
+## Clone the Repository
+First, clone the repository from GitHub:
+```bash
+git clone https://github.com/thxrhmn/object-detection-sentiment-analysis.git
+cd object-detection-sentiment-analysis
+```
+
 ## Installation
 To set up the environment, follow these steps:
 
@@ -20,7 +27,11 @@ You can run the application to perform object detection and sentiment analysis f
 
 To perform object detection on an image, use the following command:
 ```bash
-python main.py --image example_images/kucing.jpg
+python main.py --image path/to/image.png
+```
+You can also specify a custom font for annotations using the --font argument. The default font path is `./arial.ttf`. Here is an example:
+```bash
+python main.py --image path/to/image.png --font path/to/custom/font.ttf
 ```
 Result Example:
 ```bash
@@ -96,6 +107,7 @@ python main.py --sentences-file path/to/sentences.txt
 The `main()` function sets up command-line arguments for object detection and sentiment analysis. It handles different cases based on provided arguments:
 
 - `--image`: Path to the image file for object detection.
+- `--font`: Path to the font file for annotations (default is ./arial.ttf).
 - `--sentences`: List of sentences for sentiment analysis.
 - `--sentences-file`: Path to a file containing sentences for sentiment analysis.
 
