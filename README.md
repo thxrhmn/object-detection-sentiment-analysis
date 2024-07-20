@@ -3,12 +3,12 @@
 <!-- ![Alt text](example_results/kucing_20240720_112839.jpg "a title") -->
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="example_images/kucing.jpg" alt="Image 2" style="width: 50%;" />
-  <img src="example_results/kucing_20240720_112839.jpg" alt="Image 1" style="width: 50%;" />
+  <img src="example_images/kucing.jpg" alt="Image 2" style="width: 45%;" />
+  <img src="example_results/kucing_20240720_112839.jpg" alt="Image 1" style="width: 45%;" />
 </div>
 <div style="display: flex; justify-content: space-around;">
-  <img src="example_images/liburan.jpg" alt="Image 2" style="width: 50%;" />
-  <img src="example_results/liburan_20240720_112534.jpg" alt="Image 1" style="width: 50%;" />
+  <img src="example_images/liburan.jpg" alt="Image 2" style="width: 45%;" />
+  <img src="example_results/liburan_20240720_112534.jpg" alt="Image 1" style="width: 45%;" />
 </div>
 
 This project uses Hugging Face Transformers to perform object detection and sentiment analysis. It provides a command-line interface for analyzing images and text data.
